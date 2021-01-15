@@ -10,10 +10,10 @@ h1 {
     color: #b30000;
 }
 
-ol {
+li {
     display: inline;
-    font-size: 16px;
     text-align: justify;
+    font-size: 16px;
 }
 
 a {
